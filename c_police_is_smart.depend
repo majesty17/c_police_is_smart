@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520235328 source:e:\git\c_police_is_smart\main.c
+	<stdio.h>
+	<stdlib.h>
+
